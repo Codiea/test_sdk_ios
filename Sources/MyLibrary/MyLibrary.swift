@@ -6,7 +6,7 @@ public class MyPrintClass {
     
     public init() {}
     
-    func printName(message: String){
+    public func printName(message: String){
         print(message)
     }
 }
